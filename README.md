@@ -17,4 +17,4 @@ To learn how to import Mod profiles onto Curseforge, [CLICK ME!](https://example
 
 ## SERVER
 
-**china-korea.gl.joinmc.link**
+**dm @kajiuskolf on discord**
