@@ -9,7 +9,7 @@
 To play on my server, you must have Curseforge and use the server's mod pack.  
 [CLICK ME!](https://github.com/Slided/tmobile/raw/refs/heads/currentmodpack/Kajiu's%20Fabric%20Server%20-%20CF%20Pack%201.20.4.zip) to install the 1.20.4 Mod pack and [CLICK ME!](https://download.curseforge.com) to install Curseforge.  
 
-To learn how to import Mod profiles onto Curseforge, [CLICK ME!](https://example.com/import-guide)
+To learn how to import Mod profiles onto Curseforge, [CLICK ME!](https://support.curseforge.com/en/support/solutions/articles/9000198501-exporting-and-importing-modpacks)
 
 <br clear="left"/>
 
